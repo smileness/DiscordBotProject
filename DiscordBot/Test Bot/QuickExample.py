@@ -1,5 +1,6 @@
 import discord
 import asyncio
+import discordToken
 
 client = discord.Client()
 
@@ -27,4 +28,4 @@ async def on_message(message):
         await client.send_message(message.channel, 'Done sleeping')
 
 
-client.run('token')
+client.run(discordToken.token())
