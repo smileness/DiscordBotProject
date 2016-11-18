@@ -1,0 +1,5 @@
+2016-11-17 23:47:58,134:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2016-11-17 23:47:58,134:INFO:discord.client: on_message has successfully been registered as an event
+2016-11-17 23:47:58,134:INFO:discord.client: on_ready has successfully been registered as an event
+2016-11-17 23:47:58,135:INFO:discord.client: logging in using static token
+2016-11-17 23:47:58,616:DEBUG:discord.http: GET https://discordapp.com/api/v6/users/@me with None has returned 401
