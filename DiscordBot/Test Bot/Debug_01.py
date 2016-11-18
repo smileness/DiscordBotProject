@@ -1,6 +1,7 @@
 import discord
 import time
 import datetime
+import discordToken
 
 client = discord.Client()
 
@@ -36,4 +37,5 @@ async def on_ready():
     print('------')
 
 
-client.run('MjQ5MDkyMDEzNDQwNDk5NzEy.CxBSVA.11-GDXTPkko6EQ4zPNMU6vGPF5U')
+token = discordToken.token()
+client.run(token)
