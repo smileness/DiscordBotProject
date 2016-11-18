@@ -9,7 +9,7 @@ def example_func(author, message):
     client.send_message(message.channel, "%s, How are you doing?" % author)
 
 
-# Main bot boddy
+# Main bot body
 @client.event
 async def on_message(message):
     # we do not want the bot to reply to itself
