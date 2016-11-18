@@ -1,7 +1,9 @@
 import discord
 
-client = discord.Client()
+print(discord.__version__)
 
-client.run()
+# client = discord.Client()
 
-client.close()
+# client.run()
+
+# client.close()
