@@ -5,3 +5,5 @@
 [Invite me to your Discord server](https://discordapp.com/oauth2/authorize?&client_id=249092013440499712&scope=bot&permissions=0)
 
 [Discord Python API](http://discordpy.readthedocs.io/en/latest/)
+
+[Scrapy API](https://doc.scrapy.org/en/1.2/index.html)
